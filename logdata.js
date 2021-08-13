@@ -1,5 +1,5 @@
 let person = {
-    name: "John Doe",
+    name: "Jane Doe",
     age: 26,
     country: "Belgium"
 }
